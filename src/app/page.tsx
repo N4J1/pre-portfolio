@@ -41,7 +41,7 @@ export default function Home() {
           <Logo
             iconSrc="/images/logo_perso.png"
             size="l"
-            href="/images/logo_perso.png"
+            href="#"
             wordmark={false}
           />
           <Row gap="12" hide="s">
