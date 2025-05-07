@@ -169,7 +169,7 @@ export default function Home() {
               id="readDocs"
               target="_blank"
               label="Open Resume"
-              href="https://drive.google.com/file/d/13aN9xOe44ZwJU_11XtEUpIzuKg1-oG-D/view?usp=sharing"
+              href="https://drive.google.com/file/d/1GrvQx_N29CtG_Q86x5Yx0ETWHTarQo_x/view?usp=sharing"
               variant="secondary"
               arrowIcon
             />
